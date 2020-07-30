@@ -1,0 +1,56 @@
+* {
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0px;
+}
+
+.container {
+    width: 100%;
+    white-space: nowrap;
+}
+
+.navbar-brand {
+    font-size: 32px;
+    padding: 20px;
+}
+
+.navbar-nav {
+    font-size: 20px;
+}
+
+.thick-line {
+    background-color: teal;
+    color: teal;
+    height: 40px;
+}
+
+.skinny-line {
+    background-color: yellow;
+    color: yellow;
+}
+
+.wrapper {
+    font-size: xx-small;
+    padding: 20px;
+    line-height: 28px;
+}
+
+.form-group {
+    font-size: 20px;
+}
+
+.slim-line {
+    background-color: tomato;
+    color: tomato;
+}
+
+.fat-line {
+    background-color: teal;
+    color: teal;
+    height: 40px;
+}
